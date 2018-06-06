@@ -1,2 +1,0 @@
-# Faculty-Publications-HTML-CSS-PHP-SQL-
-# Faculty-Publications This is a web applications built to satisfy the needs of educational organisation by providing a interface between students and faculty where a faculty posts his new contributions or journals related to education in this application and students can access it without any login . The single login page is designed in such a way that Both Admin as well as Faculty can login and get their separate dashboards.Admin Login Id:150000 password:0000. Languages Used HTML,CSS,PHP,SQL.
